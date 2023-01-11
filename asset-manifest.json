@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/stefany_portafolio/static/css/main.5b81e595.css",
+    "main.js": "/stefany_portafolio/static/js/main.1beb59bf.js",
+    "static/media/2.png": "/stefany_portafolio/static/media/2.88476dcdd4e28d014017.png",
+    "static/media/woman.png": "/stefany_portafolio/static/media/woman.f347d88aa1fc9331e4ec.png",
+    "static/media/3.png": "/stefany_portafolio/static/media/3.5dca04b5d5105ccb992a.png",
+    "static/media/4.png": "/stefany_portafolio/static/media/4.d454acc9c99a7ef57cc3.png",
+    "static/media/1.png": "/stefany_portafolio/static/media/1.d604930abb0ded8bd59a.png",
+    "static/media/logo.svg": "/stefany_portafolio/static/media/logo.254f9a083102baab664b3b61d55b11a9.svg",
+    "index.html": "/stefany_portafolio/index.html",
+    "main.5b81e595.css.map": "/stefany_portafolio/static/css/main.5b81e595.css.map",
+    "main.1beb59bf.js.map": "/stefany_portafolio/static/js/main.1beb59bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b81e595.css",
+    "static/js/main.1beb59bf.js"
+  ]
+}
